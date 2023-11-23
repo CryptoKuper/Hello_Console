@@ -1,6 +1,6 @@
 ﻿int numberA = new Randow().Next(1,10);
-Console.WriteLine(numberA)
+Console.WriteLine(numberA);
 int numberB = new Randow().Next(1,10);
-Console.WriteLine(numberB)
+Console.WriteLine(numberB);
 int result = numberA + numberB;
 Console.WriteLine(result);
