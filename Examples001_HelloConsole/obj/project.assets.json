@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Курсы\\Курс Разработчик\\Знакомство с языками программирования (лекции)\\Знакомство с языками программирования (лекции)\\Урок 1\\Workspace\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+      "projectUniqueName": "D:\\Курсы\\Курс Разработчик\\Знакомство с языками программирования (лекции)\\Урок 1\\Workspace\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
       "projectName": "Examples001_HelloConsole",
-      "projectPath": "D:\\Курсы\\Курс Разработчик\\Знакомство с языками программирования (лекции)\\Знакомство с языками программирования (лекции)\\Урок 1\\Workspace\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+      "projectPath": "D:\\Курсы\\Курс Разработчик\\Знакомство с языками программирования (лекции)\\Урок 1\\Workspace\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\rtuka\\.nuget\\packages\\",
-      "outputPath": "D:\\Курсы\\Курс Разработчик\\Знакомство с языками программирования (лекции)\\Знакомство с языками программирования (лекции)\\Урок 1\\Workspace\\Examples\\Examples001_HelloConsole\\obj\\",
+      "outputPath": "D:\\Курсы\\Курс Разработчик\\Знакомство с языками программирования (лекции)\\Урок 1\\Workspace\\Examples\\Examples001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rtuka\\AppData\\Roaming\\NuGet\\NuGet.Config"
